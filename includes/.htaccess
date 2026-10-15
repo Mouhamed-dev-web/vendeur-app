@@ -1,0 +1,2 @@
+# Empêche l'accès direct aux fichiers d'inclusion
+Require all denied

@@ -1,0 +1,7 @@
+# Désactive l'affichage du contenu des dossiers
+Options -Indexes
+
+# Force HTTPS en production (décommentez après configuration du certificat SSL)
+# RewriteEngine On
+# RewriteCond %{HTTPS} off
+# RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]

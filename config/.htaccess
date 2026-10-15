@@ -1,0 +1,2 @@
+# Empêche l'accès direct aux fichiers de configuration
+Require all denied
